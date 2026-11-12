@@ -187,3 +187,6 @@ Manter o vetor ordenado a cada inserção custa O(k) e faz a exibição ficar O(
 | Modo humano (partida) | O(log n) | O(1) |
 | Inserção no ranking | O(k) ≈ O(1) | O(k) |
 | Exibição do ranking | O(k) | O(1) |
+
+### ADDENDUM
+Infelizmente não foi possível adicionar a gravação do Ranking dos Hackers no programa. Portanto, o Ranking apenas exibirá que não houve tentativas de Hackers contra o sistema.
